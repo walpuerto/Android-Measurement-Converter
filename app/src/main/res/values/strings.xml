@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Measurement Calculator</string>
+
+    <!--LABEL-->
+    <string name="title">Measurement Converter</string>
+    <string name="labelFrom">From: </string>
+    <string name="labelTo">To: </string>
+    <string name="labelButton">Convert: </string>
+    <string name="labelResult">Value</string>
+
+    <!--EDIT-->
+    <string name="editText">Input Number</string>
+
+<!--    BUTTON-->
+    <string name="buttonText">Convert</string>
+</resources>
